@@ -21,7 +21,7 @@
 
 
 # the token of the bot you get from t.me/botfather (type: str)
-bot_token: "token"
+bot_token: "5278751647:AAGoIcXkE2j0J3J3reAEoJkFhvm5zk89KJQ"
 
 # the name of the database (type: str)
 db_path: "database/database.db"
